@@ -1,0 +1,51 @@
+body{
+	background-color: White;
+}
+
+h1{
+	color: #4d4d4d;
+}
+
+h3{
+	color: DarkGray;
+}
+
+a{
+	color: MediumSeaGreen;
+}
+
+div.code{
+	background-color: Black;
+	text-align: left;
+	color: White;
+}
+
+
+/* Reference Link: https://www.w3schools.com/css/default.asp */
+/*
+	color:
+	background-color:
+	text-align:
+	text-shadow:
+	text-transform:
+	letter-spacing:
+	line-height:
+	word-spacing:
+	font-size:
+	border: BorderWidth BorderStyle color
+	outline-style:
+	outline-color:
+	outline-width:
+	outline-offset:
+	display:
+	margin-left:
+	margin-right:
+	margin-top:
+	margin-bottom:
+	.
+	.
+	.
+	.
+	.
+	.
+*/

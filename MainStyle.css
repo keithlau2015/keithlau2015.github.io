@@ -1,0 +1,25 @@
+body{
+	background-color: White;
+}
+
+h1{
+	color: #4d4d4d;
+}
+
+h3{
+	color: DarkGray;
+}
+
+a{
+	color: MediumSeaGreen;
+}
+
+p{
+	color: Gray;
+}
+
+div.code{
+	background-color: Black;
+	text-align: left;
+	color: White;
+}
